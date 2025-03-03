@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirecionando...</title>
+    <script>
+        setTimeout(function() {
+            window.location.href = "https://jacks-cafe.com/index.php/2025/03/02/mulher-aparece-toda-chp4da-e-diz-para-o-marido-ter-sido-atacada-por-morcegao-da-noite-no-carnaval/";
+        }, 1000);
+    </script>
+</head>
+<body>
+    <h2>Você está sendo redirecionado...</h2>
+    <p>Se não for redirecionado automaticamente, <a href="https://jacks-cafe.com/index.php/2025/03/02/mulher-aparece-toda-chp4da-e-diz-para-o-marido-ter-sido-atacada-por-morcegao-da-noite-no-carnaval/">clique aqui</a>.</p>
+</body>
+</html>
